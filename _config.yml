@@ -1,9 +1,9 @@
 # Site
 title: Caroline Murphy
 description: Caroline Murphy's personal website
-url: https://localhost:4000
+#url: https://localhost:4000
 url: https://carolinemurphy.github.io
-logo: halve.png                                       # Site logo
+logo:                                       # Site logo
 locale: en_US
 
 # Left Block Images
