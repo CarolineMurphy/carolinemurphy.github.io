@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="598c1b47-13d2-4903-ac5c-fdff8c1d9235" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/disqus.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/meta.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/svg-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-03-06-Eternal-Lorem-Ipsum.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-03-08-Eternal-Lorem-Ipsum.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_highlights.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_jekyll-mono.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_reset.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/404/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/Eternal-Lorem-Ipsum/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/images/404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/images/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/images/post.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/images/ss-color.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/images/ss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/projects/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ss-color.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="carolinemurphy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,8 +28,8 @@
       <file leaf-file-name="post-list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="22" column="87" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="87" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -161,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -202,7 +165,6 @@
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_site/markup-title-with-markup/index.html" />
         <option value="$PROJECT_DIR$/_site/markup-text-alignment/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-24-testy-test.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-24-barr-gazetas.md" />
@@ -221,6 +183,7 @@
         <option value="$PROJECT_DIR$/_layouts/post-list.html" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -318,7 +281,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.4.0/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="post&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_layouts/post-list.html&#10;po&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_site/posts.html&#10;index.md&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/index.md&#10;hom&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_layouts/home.html&#10;index&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_site/index.html" />
+    <property name="SearchEverywhereHistoryKey" value="config&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_config.yml&#10;post&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_layouts/post-list.html&#10;po&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_site/posts.html&#10;index.md&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/index.md&#10;hom&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_layouts/home.html&#10;index&#9;FILE&#9;file:///home/chrini/ExternalProjects/carolinemurphy.github.io/_site/index.html" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -382,12 +345,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474729303550</updated>
-      <workItem from="1474729308958" duration="10282000" />
+      <workItem from="1474729308958" duration="10356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10282000" />
+    <option name="totallyTimeSpent" value="10356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -719,14 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/barr-gazetas/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -777,14 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -792,14 +739,6 @@
           <folding>
             <element signature="e#1289#1297#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,8 +760,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="22" column="87" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="87" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
