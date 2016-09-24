@@ -16,7 +16,7 @@ layout: compress
     </div>
 
     <div class="block-right">
-      <a href="posts.html" title="work experience" class="posts-menu-icon"></a>
+      <a href="posts.html" title="posts" class="posts-menu-icon"></a>
       <a title="projects" class="projects-menu-icon">
         <span></span>
       </a>
@@ -28,7 +28,7 @@ layout: compress
               <a href="{{ site.url }}{{ post.url }}" class="post-title">
                 <span>{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
               </a>
-              <!--<span class="date">{{ post.date | date: '%d %b %Y' }}</span>-->
+              <span class="date">{{ post.date | date: '%d %b %Y' }}</span>
             </h2>
             <p>{{ post.excerpt | strip_html | truncatewords:10 }}</p>
             <ul class="tags">
