@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Posts
-description: "List of posts"
+title: Work Experience
+description: "List of work experience"
 permalink: /posts.html
 ---
