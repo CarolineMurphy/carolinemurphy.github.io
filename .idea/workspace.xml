@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="598c1b47-13d2-4903-ac5c-fdff8c1d9235" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/edge-case-nested-and-mixed-lists/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/edge-case-no-body-content/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/edge-case-no-yaml-title/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/edge-case-title-should-not-overflow-the-content-area/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/elliott-designs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/halve-theme/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/layout-header-image-external/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/layout-header-image-horizontal/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/layout-header-image-text-readability/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/layout-header-image-vertical/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-html-tags-and-formatting/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-image-alignment/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-more-images/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-syntax-highlighting/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-text-alignment/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-text-readability/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-title-with-markup/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/markup-title-with-special-characters/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-chat/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-image-caption/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-image-linked-caption/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-image-linked/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-image-standard/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-notice/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-quote/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-twitter-embeds/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/post-video-youtube/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/testy-test/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/projects.yaml" afterPath="$PROJECT_DIR$/_data/projects.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post-list.html" afterPath="$PROJECT_DIR$/_layouts/post-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/posts.md" afterPath="$PROJECT_DIR$/_pages/posts.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/barr-gazetas/index.html" afterPath="$PROJECT_DIR$/_site/barr-gazetas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/barton-willmore/index.html" afterPath="$PROJECT_DIR$/_site/barton-willmore/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/easglesham/index.html" afterPath="$PROJECT_DIR$/_site/easglesham/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/elliott-design/index.html" afterPath="$PROJECT_DIR$/_site/elliott-design/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/lawray-architects/index.html" afterPath="$PROJECT_DIR$/_site/lawray-architects/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/posts.html" afterPath="$PROJECT_DIR$/_site/posts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/studio-rhe/index.html" afterPath="$PROJECT_DIR$/_site/studio-rhe/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="$PROJECT_DIR$/_site/tags.html" />
     </list>
     <ignored path="carolinemurphy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -358,12 +314,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474729303550</updated>
-      <workItem from="1474729308958" duration="12996000" />
+      <workItem from="1474729308958" duration="13045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12996000" />
+    <option name="totallyTimeSpent" value="13045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -792,7 +748,7 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
