@@ -3,27 +3,47 @@
   image: /images/21glasshousestreet.jpg
   completed: true
 
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: QUADRANT 2 [SOUTH]
+  url: /projects/quadrant-2-south
+  image: /images/02_Q2S.png
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: FORA, 9 DALLINGTON STREET
+  url: /projects/9-dallington-street
+  image: /images/03_RHE.png
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+- title: QUADRANT ARCADE
+  url: /projects/quadrant-arcade
+  image: /images/04_QA.jpg
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+- title: MICHAEL PALIN CENTRE
+  url: /projects/michael-palin-centre
+  image: /images/05_MPC.jpg
   completed: false
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+- title: 8 CANONBURY SQUARE
+  url: /projects/8-canonbury-square
+  image: /images/06_CB.jpg
+  completed: false
+
+- title: SEAWEED INDUSTRY, BRIGHTON
+  url: /projects/seaweed-industry
+  image: /images/07_SW.jpg
+  completed: false
+
+- title: LOVE HOTEL, BRIXTON
+  url: /projects/love-hotel
+  image: /images/08_LH.jpg
+  completed: false
+
+- title: A PICKLE
+  url: /projects/a-pickle
+  image: /images/09_PK.jpg
+  completed: false
+
+- title: FASHION, FILM + MAKING
+  url: /projects/fashion-film-making
+  image: /images/10_MK.jpg
   completed: false

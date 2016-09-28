@@ -1,18 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<p>21 GLASSHOUSE STREET
+---
+layout: compress
+---
 
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+<h1 align="center">21 GLASSHOUSE STREET</h1>
+<p class="main-info" style="color: black;">
     21 Glasshouse Street is a Grade II listed office building on Regent Street
     owned by the Crown Estate. I was a lead member working on the
     transformation to CAT A Office space which has now been let by Apple.
     The refurbishment has created 26,000 ft2
-    of exemplary office space with
-    a BREEAM Excellent.
+    of exemplary office space with a BREEAM Excellent.</p>
+<br>
+<p>
     We inserted a new lift core which has enabled the relocation of the
     office entrance from Regent Street to Glasshouse Street unifying the
     existing retail street frontage that is dominant on Regent Street. I worked
@@ -27,5 +29,7 @@
     of prime office space with full height
     glass sliding doors that lead out to terrace, meadow and dramatic views
     across London.</p>
+{% include overlay.html %}
+{% include scripts.html %}
 </body>
 </html>
